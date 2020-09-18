@@ -1,5 +1,5 @@
 # RPG
-_This is a 2d platformer game, made in Gamemaker studio 2. It has 30 day free version so this is as much as I can share. Anybody who has this studio can try to play the game and see the code. _
+_This is a 2d platformer game, made in Gamemaker studio 2. It has 30 day free version so this is as much as I can share. Anybody who has this studio can try to play the game and see the code._
 
 ## Description
 In this game I made 2 NPCs which 1 will heal you and the other one is giving you a quest to kill the boss. After you killed the boss he will display a different message.
